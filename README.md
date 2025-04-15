@@ -1,4 +1,4 @@
-# Overview
+# About
 
 The goal is to build a solid foundation in Javascript by developing small project ideas.
 
