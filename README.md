@@ -6,7 +6,7 @@ The goal is to build a solid foundation in Javascript by developing small projec
 
 This project involves building a basic calculator capable of performing addition, subtraction, multiplication, and division. The primary learning objectives are handling user input, performing arithmetic operations and converting data types efficiently.
 
-![alt text](./images/calculator.png)
+<img src="./images/calculator.png" width="200" height="200">
 
 ## Key Concepts
 
