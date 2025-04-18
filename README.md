@@ -6,7 +6,7 @@ The goal is to build a solid foundation in Javascript by developing small projec
 
 This project involves building a basic calculator capable of performing addition, subtraction, multiplication, and division. The primary learning objectives are handling user input, performing arithmetic operations and converting data types efficiently.
 
-<img src="./images/calculator.png" width="200" height="200">
+<img src="calculator/assets/calculator.png" width="200" height="200">
 
 ## Key Concepts
 
@@ -15,9 +15,7 @@ This project involves building a basic calculator capable of performing addition
 - Arithmetic operations
 - Update the UI dynamically
 
-# Project 2: To-Do List
-
-This project implements a basic to-do list application. Users can add, remove, and mark tasks as complete. The application interacts with the DOM, which is the primary focus of this project.
+# Project 2: Cooking Recepies
 
 ## Key Concepts
 
